@@ -1,2 +1,2 @@
 # Predicting-Credit-Card-Approvals
-In this repository I applied the Supervised Machine Learning techniques to predict the Approval and Denial of Credit Card Application. This repository will give you the insights of about the Supervised Machine Learning Techniques.
+In this repository I have applied the Supervised Machine Learning techniques to predict the Approval and Denial of Credit Card Applications. This repository will give you the insights of Supervised Machine Learning Techniques.
